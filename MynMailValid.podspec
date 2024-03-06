@@ -3,7 +3,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "MynMailValid"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "This is my first cocopods creation"
   spec.description  = "I don't have a clue about what to write on this Description'"
   spec.homepage     = "https://github.com/ArunPIos/MailValidSdk"
